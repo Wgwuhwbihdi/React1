@@ -4,3 +4,11 @@
     box-sizing: border-box;
     text-align: center;
 }
+.Head1{
+    height: 1.6cm;
+    color: white;
+    background-image: linear-gradient(to bottom right, rgb(0, 51, 255), rgb(6, 137, 253),lightblue);
+    box-shadow: 5px 5px 5px rgb(205, 205, 205);
+    font-size: 0.6cm;
+    margin-bottom: 6px;
+}
